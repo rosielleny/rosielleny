@@ -1,5 +1,5 @@
 
-I am an aspiring Data Scientist with a strong work ethic and a love for solving problems. 
+I am an aspiring programmer with a strong work ethic and a love for solving problems. 
 While pursuing animation and game developement I discovered a passion for programming and sought to broaden my skillset.
 
 I have recently completed a Data Science course with Hyperion Dev during which I gained a broad set of Data Science skills from python, to data analysis and visualisation, to machine learning.
