@@ -7,7 +7,7 @@ I have recently completed a Data Science course with Hyperion Dev during which I
 From my previous experience in the design industry, I bring excellent time management skills, an attention to detail, 
 the ability to self motivate, and experience working in teams and leading them. 
 
-- 🔭 I’m currently working on broadening my portfolio with some personal projects, as well as learning Pygame and C++
+- 🔭 I’m currently completing my Computer Science Msc
 
 - 📫 How to reach me: r-e-young@outlook.com
 - 😄 Pronouns: She/her
